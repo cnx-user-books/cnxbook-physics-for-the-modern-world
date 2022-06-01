@@ -1,0 +1,89 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11865</md:content-id>
+    <md:title>Physics for the Modern World</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>c62b5ef7-c6dc-4aeb-acfd-98b4a5295994</md:uuid>
+<md:slug>physics-for-the-modern-world</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Medical Applications of Nuclear Physics</md:title>
+      <col:content>
+        <col:module document="m42646"/>
+        <col:module document="m42649"/>
+        <col:module document="m42652"/>
+        <col:module document="m42654"/>
+        <col:module document="m42656"/>
+        <col:module document="m42659"/>
+        <col:module document="m42662"/>
+        <col:module document="m42665"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Vision and Optical Instruments</md:title>
+      <col:content>
+        <col:module document="m42478"/>
+        <col:module document="m42482"/>
+        <col:module document="m42484"/>
+        <col:module document="m42487"/>
+        <col:module document="m42491"/>
+        <col:module document="m42493"/>
+        <col:module document="m42292"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electric Currents, Resistance and Ohm's Law</md:title>
+      <col:content>
+        <col:module document="m42339"/>
+        <col:module document="m42341"/>
+        <col:module document="m42344"/>
+        <col:module document="m42346"/>
+        <col:module document="m42714"/>
+        <col:module document="m42348"/>
+        <col:module document="m42350"/>
+        <col:module document="m42352"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electric Forces in Biology</md:title>
+      <col:content>
+        <col:module document="m42315"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Physics of Hearing</md:title>
+      <col:content>
+        <col:module document="m42254"/>
+        <col:module document="m42255"/>
+        <col:module document="m42256"/>
+        <col:module document="m42257"/>
+        <col:module document="m42712"/>
+        <col:module document="m42296"/>
+        <col:module document="m42297"/>
+        <col:module document="m42298"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Pressures in the Body</md:title>
+      <col:content>
+        <col:module document="m42199"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Work, Energy, and Energy Resources</md:title>
+      <col:content>
+        <col:module document="m42145"/>
+        <col:module document="m42146"/>
+        <col:module document="m42147"/>
+        <col:module document="m42149"/>
+        <col:module document="m42150"/>
+        <col:module document="m42151"/>
+        <col:module document="m42152"/>
+        <col:module document="m42153"/>
+        <col:module document="m42154"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
